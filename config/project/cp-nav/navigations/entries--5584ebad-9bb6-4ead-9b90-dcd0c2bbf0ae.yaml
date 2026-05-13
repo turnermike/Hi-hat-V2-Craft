@@ -1,0 +1,16 @@
+currLabel: Entries
+customIcon: null
+enabled: true
+handle: entries
+icon: newspaper
+layout: ab495ce4-69f7-4037-8cf0-7913c46705f2 # Default
+level: 1
+newWindow: false
+parent: null
+prevLabel: Entries
+prevLevel: 1
+prevParent: null
+prevUrl: entries
+sortOrder: 2
+type: craft
+url: entries

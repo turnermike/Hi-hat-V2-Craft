@@ -1,0 +1,16 @@
+currLabel: Categories
+customIcon: null
+enabled: true
+handle: categories
+icon: sitemap
+layout: ab495ce4-69f7-4037-8cf0-7913c46705f2 # Default
+level: 1
+newWindow: false
+parent: null
+prevLabel: Categories
+prevLevel: 1
+prevParent: null
+prevUrl: categories
+sortOrder: 4
+type: craft
+url: categories

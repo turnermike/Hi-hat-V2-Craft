@@ -1,0 +1,74 @@
+allowLineBreaksInTitles: false
+color: null
+description: null
+fieldLayouts:
+  67979f22-7334-4f56-a5c8-3f072b211e36:
+    cardThumbAlignment: end
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            dateAdded: '2026-05-13T14:04:06+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: a81cde5c-2623-4caa-9a50-d4ed47522578 # Text
+            handle: myApproachIcon
+            instructions: null
+            label: Icon
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 9de83602-399d-4405-930a-eef7c15a1509
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2026-05-13T14:04:06+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: a81cde5c-2623-4caa-9a50-d4ed47522578 # Text
+            handle: myApproachTitle
+            instructions: null
+            label: Title
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 20b34f0f-2a3d-457b-9b2a-c91f7119f29a
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2026-05-13T14:04:06+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: a81cde5c-2623-4caa-9a50-d4ed47522578 # Text
+            handle: myApproachDescription
+            instructions: null
+            label: Description
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: b2bcdc41-83d2-4f50-ab43-5c65a42b910f
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: a42c0b11-99d0-4bb6-ae9d-a51b4b5cd3b6
+        userCondition: null
+    thumbFieldKey: null
+handle: myApproachSteps
+hasTitleField: false
+icon: compass
+name: 'My Approach Steps'
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
+uiLabelFormat: '{title}'

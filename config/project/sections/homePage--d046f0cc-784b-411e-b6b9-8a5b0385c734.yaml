@@ -1,0 +1,21 @@
+defaultPlacement: end
+enableVersioning: true
+entryTypes:
+  -
+    uid: 8f83bbaa-9dfd-4f6b-a1c1-a80b190fd0d7 # Home Page
+handle: homePage
+maxAuthors: 1
+name: 'Home Page'
+previewTargets:
+  -
+    label: 'Primary entry page'
+    refresh: '1'
+    urlFormat: '{url}'
+propagationMethod: all
+siteSettings:
+  92800916-3004-44ea-9398-6192688fca6a: # hi-hatconsulting
+    enabledByDefault: true
+    hasUrls: false
+    template: null
+    uriFormat: null
+type: single

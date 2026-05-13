@@ -1,0 +1,118 @@
+allowLineBreaksInTitles: false
+color: null
+description: null
+fieldLayouts:
+  09dff7da-7963-4370-ae5b-25da589e80a0:
+    cardThumbAlignment: end
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2026-05-13T18:01:11+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            required: true
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 591709dd-dff4-4c57-a4fe-ce678930d7b5
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2026-05-13T18:03:15+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: a81cde5c-2623-4caa-9a50-d4ed47522578 # Text
+            handle: myExpertiseItemIcon
+            instructions: null
+            label: Icon
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 3eebb5d6-0c32-4dab-b056-34ef6582fc15
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2026-05-13T18:03:15+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: 62f2e7a8-cd3b-4fd3-8551-07fd042891a1 # CKEditor
+            handle: myExpertiseItemDescription
+            instructions: null
+            label: Description
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 0a08d629-ca56-4fb0-b1e6-4ecc00486c89
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2026-05-13T19:20:01+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: cc55b7a1-01e3-40fb-85e3-706f84922024 # Checkbox
+            handle: myExpertiseShowOnHomePage
+            instructions: null
+            label: 'Show on Home page'
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 922aec1a-3b99-4927-b60f-88f065c618e4
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2026-05-13T19:20:01+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: cc55b7a1-01e3-40fb-85e3-706f84922024 # Checkbox
+            handle: myExpertiseShowOnAboutPage
+            instructions: null
+            label: 'Show on About page'
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: cbf3481a-5aa9-471c-915e-fcb0bd5aed00
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 84b369ec-19f6-489a-a741-2f9af72b8469
+        userCondition: null
+    thumbFieldKey: null
+handle: myExpertiseItem
+hasTitleField: true
+icon: file
+name: 'My Expertise Item'
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
+uiLabelFormat: '{title}'

@@ -1,0 +1,42 @@
+allowLineBreaksInTitles: false
+color: null
+description: null
+fieldLayouts:
+  9c6bad83-524e-4e77-b89a-2e2a5c6a90bb:
+    cardThumbAlignment: end
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            dateAdded: '2026-05-13T18:56:55+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: 0a695a45-3db8-49ab-81e7-75f1ba9354da # My Expertise Items
+            handle: null
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 293a10b5-ec1c-45b7-bee7-22f06af2b808
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: e3894538-b1d5-4d2c-8723-1d409de02828
+        userCondition: null
+    thumbFieldKey: null
+handle: myExpertiseItems
+hasTitleField: false
+icon: cabinet-filing
+name: 'My Expertise Items'
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
+uiLabelFormat: '{title}'

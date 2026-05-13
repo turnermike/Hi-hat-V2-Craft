@@ -1,0 +1,90 @@
+allowLineBreaksInTitles: false
+color: null
+description: null
+fieldLayouts:
+  d1ac9877-862c-4d2a-bb76-ac36ab17100b:
+    cardThumbAlignment: end
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            dateAdded: '2026-05-13T13:10:56+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: a81cde5c-2623-4caa-9a50-d4ed47522578 # Text
+            handle: ctaTitle
+            instructions: null
+            label: Title
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 586fd1b3-4f18-44e5-8ad8-53799e096038
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2026-05-13T00:42:24+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: a81cde5c-2623-4caa-9a50-d4ed47522578 # Text
+            handle: ctaDescription
+            instructions: null
+            label: Description
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: b8bb7184-1aa0-4e52-ba1c-d7db52f29664
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2026-05-13T00:42:24+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: 62f2e7a8-cd3b-4fd3-8551-07fd042891a1 # CKEditor
+            handle: ctaPoints
+            instructions: null
+            label: 'CTA Points'
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 2a7c362e-203f-4242-9d56-f41a17553891
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2026-05-13T13:07:51+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: c42f6a1e-b175-47f2-a78a-73e32b9520ed # Button
+            handle: ctaButton
+            instructions: null
+            label: 'CTA Button'
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 803d5708-5c15-45c5-8f0c-07e85b996ead
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 4f65602f-1929-4dc6-9c1d-81faff01e831
+        userCondition: null
+    thumbFieldKey: null
+handle: callToAction
+hasTitleField: false
+icon: user-beard-bolt
+name: 'Call to Action'
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
+uiLabelFormat: '{title}'

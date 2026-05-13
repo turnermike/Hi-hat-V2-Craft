@@ -1,0 +1,70 @@
+allowLineBreaksInTitles: true
+color: null
+description: null
+fieldLayouts:
+  132c1eb4-c953-4408-97e8-55410029bc5c:
+    cardThumbAlignment: end
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2026-05-13T00:13:14+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            required: true
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: a99a5b20-beee-437f-85d3-620de1c7f439
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2026-05-13T01:24:22+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: a2cfd89d-1f04-464f-acbb-63ae13de0362 # Page Builder
+            handle: null
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: aec22426-b22d-409a-a6c0-ac8a707086cb
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: b7d5ba5f-ed8d-4638-bb84-bfd96fd5c46f
+        userCondition: null
+    thumbFieldKey: null
+handle: homePage
+hasTitleField: true
+icon: file
+name: 'Home Page'
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
+uiLabelFormat: '{title}'

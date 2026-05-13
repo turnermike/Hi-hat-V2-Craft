@@ -4,6 +4,9 @@
   "require": {
     "craftcms/ckeditor": "^5.5.0",
     "craftcms/cms": "^5.9.0",
+    "verbb/cloner": "^3.0.2",
+    "verbb/cp-nav": "^5.0.7",
+    "verbb/expanded-singles": "^3.0.3",
     "vlucas/phpdotenv": "^5.4.0"
   },
   "require-dev": {

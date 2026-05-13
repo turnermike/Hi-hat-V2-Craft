@@ -1,0 +1,74 @@
+allowLineBreaksInTitles: false
+color: null
+description: null
+fieldLayouts:
+  2cedc8ac-a6de-4cba-9d78-60af96590732:
+    cardThumbAlignment: end
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            dateAdded: '2026-05-13T00:44:35+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: a81cde5c-2623-4caa-9a50-d4ed47522578 # Text
+            handle: eyebrowHeading
+            instructions: null
+            label: 'Eyebrow Heading'
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: d1c18346-f231-467d-b904-afefd45c1cc5
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2026-05-13T00:44:35+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: a81cde5c-2623-4caa-9a50-d4ed47522578 # Text
+            handle: capabilities
+            instructions: null
+            label: Capabilities
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: cb475d33-fd32-4107-a294-85c8bcf1d61c
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2026-05-13T00:44:35+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: 62f2e7a8-cd3b-4fd3-8551-07fd042891a1 # CKEditor
+            handle: description
+            instructions: null
+            label: Description
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: d17c787d-9d81-49a3-b04c-8d360e57713c
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: e5209a99-58ae-4467-9919-4b852a3662a1
+        userCondition: null
+    thumbFieldKey: null
+handle: myExpertise
+hasTitleField: false
+icon: star-shooting
+name: 'My Expertise'
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
+uiLabelFormat: '{title}'

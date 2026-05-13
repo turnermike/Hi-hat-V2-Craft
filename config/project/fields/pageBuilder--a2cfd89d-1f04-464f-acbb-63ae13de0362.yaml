@@ -1,0 +1,69 @@
+columnSuffix: null
+handle: pageBuilder
+instructions: null
+name: 'Page Builder'
+searchable: false
+settings:
+  createButtonLabel: null
+  defaultIndexViewMode: cards
+  enableVersioning: false
+  entryTypes:
+    -
+      __assoc__:
+        -
+          - uid
+          - 4c1a8379-ae3d-4b03-a65e-86ef37bfb1f1 # Hero Section
+        -
+          - group
+          - General
+    -
+      __assoc__:
+        -
+          - uid
+          - d93e0a17-54cc-440d-8164-5f1bdd3f818a # My Approach
+        -
+          - group
+          - General
+    -
+      __assoc__:
+        -
+          - uid
+          - a4d05800-399b-4d76-820c-98f00b1c81fa # My Approach Steps
+        -
+          - group
+          - General
+    -
+      __assoc__:
+        -
+          - uid
+          - c5aac788-9073-4a2f-a77c-249bf829ada2 # Call to Action
+        -
+          - group
+          - General
+    -
+      __assoc__:
+        -
+          - uid
+          - 2bb57cf7-7054-432d-8de0-1a0b91682203 # My Expertise
+        -
+          - group
+          - General
+    -
+      __assoc__:
+        -
+          - uid
+          - 38f0fc10-65c4-4c8e-85c5-3518eb73058c # My Expertise Items
+        -
+          - group
+          - General
+  includeTableView: false
+  maxEntries: null
+  minEntries: null
+  pageSize: 50
+  propagationKeyFormat: null
+  propagationMethod: all
+  showCardsInGrid: false
+  viewMode: cards
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

@@ -1,4 +1,4 @@
-dateModified: 1778630009
+dateModified: 1778700252
 email:
   fromEmail: turner.mike@gmail.com
   fromName: 'Hi-hat Consulting'
@@ -17,13 +17,20 @@ fs:
     url: '@uploads'
 meta:
   __names__:
+    0a695a45-3db8-49ab-81e7-75f1ba9354da: 'My Expertise Items' # My Expertise Items
     0c5ba1ee-1ea5-4559-a25e-97a049004244: 'Site Info' # Site Info
     1cf37ddd-e2d2-435a-a9ed-c341f8751e2d: Text # Text
     01ec6715-4652-4991-8231-f566d3a4b15c: Thumbnail # Thumbnail
+    2bb57cf7-7054-432d-8de0-1a0b91682203: 'My Expertise' # My Expertise
     2f9902f8-4e06-4215-a052-3fd54c9a124d: Images # Images
     4be4243d-b3f8-4f19-af03-58a386c87c42: hi-hatconsulting # hi-hatconsulting
+    4c1a8379-ae3d-4b03-a65e-86ef37bfb1f1: 'Hero Section' # Hero Section
+    8f83bbaa-9dfd-4f6b-a1c1-a80b190fd0d7: 'Home Page' # Home Page
     15ed46b5-6f85-4d92-b8b3-895b8b2c5b5d: Blog # Blog
+    38f0fc10-65c4-4c8e-85c5-3518eb73058c: 'My Expertise Items' # My Expertise Items
+    62f2e7a8-cd3b-4fd3-8551-07fd042891a1: CKEditor # CKEditor
     103df7b9-905f-42b2-89e5-c965f38ed9a2: 'Public Schema' # Public Schema
+    352d55d0-9b3b-4340-adff-1accd93385aa: 'My Expertise Item' # My Expertise Item
     505a7f00-2c31-4883-9164-c4c20499fa3e: About # About
     47869ea5-e9f0-401a-83fe-016c3850bcb2: 'Post Content' # Post Content
     78636b4e-a367-4504-b925-6c326b33bd77: 'Post Categories' # Post Categories
@@ -31,14 +38,38 @@ meta:
     60319308-2629-4009-800b-790f1222826e: Image # Image
     92800916-3004-44ea-9398-6192688fca6a: hi-hatconsulting # hi-hatconsulting
     a095f216-7e6f-4b38-93fe-ef54b945634f: 'Rich Text' # Rich Text
+    a2cfd89d-1f04-464f-acbb-63ae13de0362: 'Page Builder' # Page Builder
+    a4d05800-399b-4d76-820c-98f00b1c81fa: 'My Approach Steps' # My Approach Steps
+    a44b78a6-2bcb-4d93-92ca-10f08620c989: Statistics # Statistics
     a81cde5c-2623-4caa-9a50-d4ed47522578: Text # Text
+    ab495ce4-69f7-4037-8cf0-7913c46705f2: Default # Default
+    b46de5dd-a815-4c9a-a54a-eff7170cf54a: 'My Approach Steps' # My Approach Steps
     b11329f8-5144-4e2d-be74-4509b4f08c6b: About # About
+    c5aac788-9073-4a2f-a77c-249bf829ada2: 'Call to Action' # Call to Action
+    c42f6a1e-b175-47f2-a78a-73e32b9520ed: Button # Button
+    cc55b7a1-01e3-40fb-85e3-706f84922024: Checkbox # Checkbox
+    d046f0cc-784b-411e-b6b9-8a5b0385c734: 'Home Page' # Home Page
+    d93e0a17-54cc-440d-8164-5f1bdd3f818a: 'My Approach' # My Approach
     e694e177-fa06-4239-93ae-c97533ef2b07: Topics # Topics
+    e833c5bc-be16-4702-9b02-f3863cdbe8e4: 'My Expertise Items' # My Expertise Items
+    ed267f18-2e61-40fa-979e-07ea402ea555: 'My Approach Steps' # My Approach Steps
 plugins:
   ckeditor:
     edition: standard
     enabled: true
     schemaVersion: 5.0.0.1
+  cloner:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  cp-nav:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.0.11
+  expanded-singles:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
 system:
   edition: solo
   live: true
