@@ -1,0 +1,21 @@
+defaultPlacement: end
+enableVersioning: true
+entryTypes:
+  -
+    uid: 12742425-df3b-45fe-9a5d-3560da3206df # Post
+handle: blog
+maxAuthors: 1
+name: Blog
+previewTargets:
+  -
+    label: 'Primary entry page'
+    refresh: '1'
+    urlFormat: '{url}'
+propagationMethod: all
+siteSettings:
+  92800916-3004-44ea-9398-6192688fca6a: # hi-hatconsulting
+    enabledByDefault: true
+    hasUrls: true
+    template: blog/_entry.twig
+    uriFormat: 'blog/{slug}'
+type: channel

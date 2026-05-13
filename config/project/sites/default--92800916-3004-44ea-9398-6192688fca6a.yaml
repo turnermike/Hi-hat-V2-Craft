@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en
+name: hi-hatconsulting
+primary: true
+siteGroup: 4be4243d-b3f8-4f19-af03-58a386c87c42 # hi-hatconsulting
+sortOrder: 1

@@ -1,0 +1,44 @@
+columnSuffix: null
+handle: richText
+instructions: null
+name: 'Rich Text'
+searchable: true
+settings:
+  advancedLinkFields: null
+  availableTransforms: ''
+  availableVolumes: '*'
+  characterLimit: null
+  css: ".ck-editor__editable {\r\n    min-height: 300px;\r\n}"
+  cssFile: null
+  defaultTransform: null
+  defaultUploadLocationSubpath: null
+  defaultUploadLocationVolume: 2f9902f8-4e06-4215-a052-3fd54c9a124d # Images
+  fullGraphqlData: true
+  headingLevels:
+    - '1'
+    - '2'
+    - '3'
+  imageEntryTypeUid: null
+  imageFieldUid: null
+  imageMode: img
+  js: null
+  jsFile: null
+  options: null
+  parseEmbeds: false
+  purifierConfig: null
+  purifyHtml: true
+  showUnpermittedFiles: false
+  showUnpermittedVolumes: false
+  showWordCount: false
+  sourceEditingGroups:
+    - __ADMINS__
+  toolbar:
+    - heading
+    - '|'
+    - bold
+    - italic
+    - link
+  wordLimit: null
+translationKeyFormat: null
+translationMethod: none
+type: craft\ckeditor\Field

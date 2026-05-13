@@ -1,0 +1,50 @@
+defaultPlacement: end
+fieldLayouts:
+  04fe9a5c-a108-4006-b47a-86baef7b513f:
+    cardThumbAlignment: end
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2026-05-12T19:54:57+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\TitleField
+            uid: 9ce11d94-aa0f-46c6-8e13-c9022afd40cf
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: bda6bdac-98b9-4be5-b1e1-9e68af01a0af
+        userCondition: null
+    thumbFieldKey: null
+handle: topics
+name: Topics
+siteSettings:
+  92800916-3004-44ea-9398-6192688fca6a: # hi-hatconsulting
+    hasUrls: true
+    template: blog/_topic
+    uriFormat: 'blog/topic/{slug}'
+structure:
+  maxLevels: 1
+  uid: e100c6d6-c0a2-447d-bdf2-b172ec8919e5

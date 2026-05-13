@@ -1,0 +1,54 @@
+dateModified: 1778630009
+email:
+  fromEmail: turner.mike@gmail.com
+  fromName: 'Hi-hat Consulting'
+  replyToEmail: null
+  template: null
+  transportSettings:
+    command: '/usr/local/bin/mailpit sendmail -t --smtp-addr 127.0.0.1:1025'
+  transportType: craft\mail\transportadapters\Sendmail
+fs:
+  hardDisk:
+    hasUrls: true
+    name: 'Hard Disk'
+    settings:
+      path: '@webroot/uploads'
+    type: craft\fs\Local
+    url: '@uploads'
+meta:
+  __names__:
+    0c5ba1ee-1ea5-4559-a25e-97a049004244: 'Site Info' # Site Info
+    1cf37ddd-e2d2-435a-a9ed-c341f8751e2d: Text # Text
+    01ec6715-4652-4991-8231-f566d3a4b15c: Thumbnail # Thumbnail
+    2f9902f8-4e06-4215-a052-3fd54c9a124d: Images # Images
+    4be4243d-b3f8-4f19-af03-58a386c87c42: hi-hatconsulting # hi-hatconsulting
+    15ed46b5-6f85-4d92-b8b3-895b8b2c5b5d: Blog # Blog
+    103df7b9-905f-42b2-89e5-c965f38ed9a2: 'Public Schema' # Public Schema
+    505a7f00-2c31-4883-9164-c4c20499fa3e: About # About
+    47869ea5-e9f0-401a-83fe-016c3850bcb2: 'Post Content' # Post Content
+    78636b4e-a367-4504-b925-6c326b33bd77: 'Post Categories' # Post Categories
+    12742425-df3b-45fe-9a5d-3560da3206df: Post # Post
+    60319308-2629-4009-800b-790f1222826e: Image # Image
+    92800916-3004-44ea-9398-6192688fca6a: hi-hatconsulting # hi-hatconsulting
+    a095f216-7e6f-4b38-93fe-ef54b945634f: 'Rich Text' # Rich Text
+    a81cde5c-2623-4caa-9a50-d4ed47522578: Text # Text
+    b11329f8-5144-4e2d-be74-4509b4f08c6b: About # About
+    e694e177-fa06-4239-93ae-c97533ef2b07: Topics # Topics
+plugins:
+  ckeditor:
+    edition: standard
+    enabled: true
+    schemaVersion: 5.0.0.1
+system:
+  edition: solo
+  live: true
+  name: hi-hatconsulting
+  schemaVersion: 5.9.0.8
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true
