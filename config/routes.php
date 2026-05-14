@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Site URL Rules
  *
@@ -10,7 +11,7 @@
  */
 
 return [
-    '' => 'status/index',
-    '/' => 'status/index',
-    'status' => 'status/index',
+  '' => 'status/index',
+  '/' => 'status/index',
+  'status' => 'status/index',
 ];

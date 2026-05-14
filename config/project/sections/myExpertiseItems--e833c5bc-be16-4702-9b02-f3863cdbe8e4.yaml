@@ -5,6 +5,7 @@ entryTypes:
     uid: 352d55d0-9b3b-4340-adff-1accd93385aa # My Expertise Item
 handle: myExpertiseItems
 maxAuthors: 1
+minAuthors: 1
 name: 'My Expertise Items'
 previewTargets:
   -

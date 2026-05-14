@@ -1,4 +1,4 @@
-dateModified: 1778700252
+dateModified: 1778778507
 email:
   fromEmail: turner.mike@gmail.com
   fromName: 'Hi-hat Consulting'
@@ -74,7 +74,7 @@ system:
   edition: solo
   live: true
   name: hi-hatconsulting
-  schemaVersion: 5.9.0.8
+  schemaVersion: 5.10.0.0
   timeZone: America/Los_Angeles
 users:
   allowPublicRegistration: false
