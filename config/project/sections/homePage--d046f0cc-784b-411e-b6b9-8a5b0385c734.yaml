@@ -15,7 +15,7 @@ propagationMethod: all
 siteSettings:
   92800916-3004-44ea-9398-6192688fca6a: # hi-hatconsulting
     enabledByDefault: true
-    hasUrls: false
+    hasUrls: true
     template: null
-    uriFormat: null
+    uriFormat: ''
 type: single

@@ -9,4 +9,8 @@
  * @link https://craftcms.com/docs/5.x/system/routing.html
  */
 
-return [];
+return [
+    '' => 'status/index',
+    '/' => 'status/index',
+    'status' => 'status/index',
+];
