@@ -1,0 +1,22 @@
+columnSuffix: null
+handle: siteTypeTags
+instructions: null
+name: 'Site Type Tags'
+searchable: false
+settings:
+  allowSelfRelations: false
+  branchLimit: null
+  defaultPlacement: end
+  maintainHierarchy: false
+  maxRelations: null
+  minRelations: null
+  selectionLabel: null
+  showSearchInput: true
+  showSiteMenu: false
+  source: 'taggroup:93b2c711-8478-496e-b2c2-08ea8abbe5d1' # Site Type Tags
+  targetSiteId: null
+  validateRelatedElements: false
+  viewMode: list
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Tags

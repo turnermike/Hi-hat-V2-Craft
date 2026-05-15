@@ -1,4 +1,4 @@
-dateModified: 1778785346
+dateModified: 1778860661
 email:
   fromEmail: turner.mike@gmail.com
   fromName: 'Hi-hat Consulting'
@@ -25,17 +25,25 @@ meta:
     2f9902f8-4e06-4215-a052-3fd54c9a124d: Images # Images
     4be4243d-b3f8-4f19-af03-58a386c87c42: hi-hatconsulting # hi-hatconsulting
     4c1a8379-ae3d-4b03-a65e-86ef37bfb1f1: 'Hero Section' # Hero Section
+    8a813d74-8005-4b67-8667-4cb943f691f8: 'Project Details' # Project Details
     8f83bbaa-9dfd-4f6b-a1c1-a80b190fd0d7: 'Home Page' # Home Page
     15ed46b5-6f85-4d92-b8b3-895b8b2c5b5d: Blog # Blog
     38f0fc10-65c4-4c8e-85c5-3518eb73058c: 'My Expertise Items' # My Expertise Items
+    44e54ca3-33c7-404a-84fd-8bd14bf74f79: 'Portfolio Hero Content' # Portfolio Hero Content
     62f2e7a8-cd3b-4fd3-8551-07fd042891a1: CKEditor # CKEditor
     64fd8540-7793-4c6d-82c7-feab5c6e1f96: 'Portfolio Items' # Portfolio Items
+    93b2c711-8478-496e-b2c2-08ea8abbe5d1: 'Site Type Tags' # Site Type Tags
     103df7b9-905f-42b2-89e5-c965f38ed9a2: 'Public Schema' # Public Schema
     352d55d0-9b3b-4340-adff-1accd93385aa: 'My Expertise Item' # My Expertise Item
     505a7f00-2c31-4883-9164-c4c20499fa3e: About # About
+    965cbbf1-8ce4-4177-b46b-89eeda7b35c6: 'Portfolio Item' # Portfolio Item
+    1093cfa4-6cff-482c-8ace-352262910c74: 'Tech Stack Tags' # Tech Stack Tags
     47869ea5-e9f0-401a-83fe-016c3850bcb2: 'Post Content' # Post Content
+    64305e0b-c0af-46cf-a7a8-36fef8d0ba9e: 'Project Gallery Item' # Project Gallery Item
     78636b4e-a367-4504-b925-6c326b33bd77: 'Post Categories' # Post Categories
+    78801b46-cf11-409b-82d1-23dfb8726c42: 'Project Gallery Items' # Project Gallery Items
     12742425-df3b-45fe-9a5d-3560da3206df: Post # Post
+    57279674-0239-471d-8c8a-97b3d374e399: Portfolio # Portfolio
     60319308-2629-4009-800b-790f1222826e: Image # Image
     92800916-3004-44ea-9398-6192688fca6a: hi-hatconsulting # hi-hatconsulting
     a095f216-7e6f-4b38-93fe-ef54b945634f: 'Rich Text' # Rich Text
@@ -45,7 +53,10 @@ meta:
     a81cde5c-2623-4caa-9a50-d4ed47522578: Text # Text
     ab495ce4-69f7-4037-8cf0-7913c46705f2: Default # Default
     b46de5dd-a815-4c9a-a54a-eff7170cf54a: 'My Approach Steps' # My Approach Steps
+    b5852ab0-5b59-4952-bb9c-dfb11b192e7b: 'Portfolio Meta Fields' # Portfolio Meta Fields
     b11329f8-5144-4e2d-be74-4509b4f08c6b: About # About
+    bcb20fdb-1b53-41ec-a8dc-f36f2e295ccd: 'Tech Stack Tags' # Tech Stack Tags
+    becfbd83-f3c8-4404-9322-daf27ec7572c: 'Portfolio Items' # Portfolio Items
     c5aac788-9073-4a2f-a77c-249bf829ada2: 'Call to Action' # Call to Action
     c42f6a1e-b175-47f2-a78a-73e32b9520ed: Button # Button
     cc55b7a1-01e3-40fb-85e3-706f84922024: Checkbox # Checkbox
@@ -53,8 +64,10 @@ meta:
     d93e0a17-54cc-440d-8164-5f1bdd3f818a: 'My Approach' # My Approach
     e694e177-fa06-4239-93ae-c97533ef2b07: Topics # Topics
     e833c5bc-be16-4702-9b02-f3863cdbe8e4: 'My Expertise Items' # My Expertise Items
+    ed38c445-9ad1-4f80-a120-ad95f3844f8f: Lightswitch # Lightswitch
     ed267f18-2e61-40fa-979e-07ea402ea555: 'My Approach Steps' # My Approach Steps
-    f466f55f-8dc7-405c-8a73-38943291a3a7: Portfolio # Portfolio
+    f1db294f-8162-40e9-a1ea-66ebc646ca1b: 'Project Details' # Project Details
+    f20ec9a4-2310-4092-95fe-fefb9606bb07: 'Site Type Tags' # Site Type Tags
 plugins:
   ckeditor:
     edition: standard
@@ -69,6 +82,10 @@ plugins:
     enabled: true
     schemaVersion: 2.0.11
   expanded-singles:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  tidytags:
     edition: standard
     enabled: true
     schemaVersion: 1.0.0

@@ -1,0 +1,86 @@
+allowLineBreaksInTitles: false
+color: null
+description: null
+fieldLayouts:
+  db2801bb-eda5-482f-bd28-58e1f1ac2705:
+    cardThumbAlignment: end
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2026-05-15T14:53:21+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            required: true
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 7c685a15-ec94-4d2c-bf74-e18c0f7490ee
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2026-05-15T14:55:06+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: a81cde5c-2623-4caa-9a50-d4ed47522578 # Text
+            handle: description
+            instructions: null
+            label: Description
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 2a6e4d87-6096-4ed8-8605-857f80f26ae4
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2026-05-15T14:55:06+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: 60319308-2629-4009-800b-790f1222826e # Image
+            handle: null
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: b691b87c-3598-41c1-a3b1-18b789de0ff3
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: f4aad34b-5306-4816-9273-c41790f6bc22
+        userCondition: null
+    thumbFieldKey: null
+handle: projectGalleryItem
+hasTitleField: true
+icon: null
+name: 'Project Gallery Item'
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
+uiLabelFormat: '{title}'

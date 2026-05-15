@@ -1,0 +1,16 @@
+currLabel: Dashboard
+customIcon: null
+enabled: true
+handle: dashboard
+icon: null
+layout: ab495ce4-69f7-4037-8cf0-7913c46705f2 # Default
+level: 2
+newWindow: false
+parent: c490fe90-f16e-44a2-9de2-a41f731f1a9d
+prevLabel: Dashboard
+prevLevel: 2
+prevParent: c490fe90-f16e-44a2-9de2-a41f731f1a9d
+prevUrl: tidytags
+sortOrder: 14
+type: plugin
+url: tidytags

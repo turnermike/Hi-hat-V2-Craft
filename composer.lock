@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ab905f7042e72396ffb412d4e9aa629a",
+    "content-hash": "ca90d59c1ccdca4883cd9f00d1620664",
     "packages": [
         {
             "name": "bacon/bacon-qr-code",
@@ -2049,6 +2049,47 @@
                 "source": "https://github.com/laravel/framework"
             },
             "time": "2025-09-08T19:05:53+00:00"
+        },
+        {
+            "name": "justinholtweb/craft-tidytags",
+            "version": "5.0.1",
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/justinholtweb/craft-tidytags/zipball/7d2dadca2d79ddd889a10bf2fd62604268641b12",
+                "reference": "7d2dadca2d79ddd889a10bf2fd62604268641b12",
+                "shasum": ""
+            },
+            "require": {
+                "craftcms/cms": "^5.0.0",
+                "php": ">=8.2"
+            },
+            "type": "craft-plugin",
+            "extra": {
+                "handle": "tidytags",
+                "name": "Tidy Tags",
+                "developer": "Justin Holt",
+                "developerUrl": "https://justinholt.dev",
+                "documentationUrl": "https://github.com/justinholtweb/craft-tidytags",
+                "class": "justinholtweb\\tidytags\\Plugin"
+            },
+            "autoload": {
+                "psr-4": {
+                    "justinholtweb\\tidytags\\": "src/"
+                }
+            },
+            "license": [
+                "proprietary"
+            ],
+            "description": "Tag manager for Craft CMS 5 with multi-site support and duplicate detection.",
+            "keywords": [
+                "craftcms",
+                "tag-manager",
+                "tags"
+            ],
+            "support": {
+                "issues": "https://github.com/justinholtweb/craft-tidytags/issues"
+            },
+            "time": "2026-04-24T13:45:24+00:00"
         },
         {
             "name": "league/html-to-markdown",

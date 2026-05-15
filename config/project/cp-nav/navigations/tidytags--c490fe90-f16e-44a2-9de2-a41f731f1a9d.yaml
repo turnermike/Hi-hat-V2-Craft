@@ -1,0 +1,16 @@
+currLabel: 'Tidy Tags'
+customIcon: null
+enabled: true
+handle: tidytags
+icon: /var/www/html/vendor/justinholtweb/craft-tidytags/src/icon-mask.svg
+layout: ab495ce4-69f7-4037-8cf0-7913c46705f2 # Default
+level: 1
+newWindow: false
+parent: null
+prevLabel: 'Tidy Tags'
+prevLevel: 1
+prevParent: null
+prevUrl: tidytags
+sortOrder: 13
+type: plugin
+url: tidytags

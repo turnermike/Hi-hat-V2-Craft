@@ -2,36 +2,36 @@ allowLineBreaksInTitles: false
 color: null
 description: null
 fieldLayouts:
-  da2d5e8a-5bb7-412c-b028-4564bdfd7445:
+  c457ab73-29b4-422e-bb7a-3e17815d15c6:
     cardThumbAlignment: end
     tabs:
       -
         elementCondition: null
         elements:
           -
-            dateAdded: '2026-05-15T14:26:57+00:00'
+            dateAdded: '2026-05-15T14:45:41+00:00'
             editCondition: null
             elementCondition: null
             elementEditCondition: null
-            fieldUid: becfbd83-f3c8-4404-9322-daf27ec7572c # Portfolio Items
+            fieldUid: 62f2e7a8-cd3b-4fd3-8551-07fd042891a1 # CKEditor
             handle: null
             instructions: null
             label: null
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: 2b1a5a9b-6d95-4d53-8294-f65b2dc686af
+            uid: 6e63d706-ba0e-4ab7-9366-0a61d7787202
             userCondition: null
             warning: null
             width: 100
         name: Content
-        uid: 48fa6080-cfca-4f52-874b-2d58d1987c14
+        uid: a2457939-7e10-4ce6-89dd-51ac14b7052e
         userCondition: null
     thumbFieldKey: null
-handle: portfolioItems
+handle: projectDetails
 hasTitleField: false
-icon: user-tie
-name: 'Portfolio Items'
+icon: null
+name: 'Project Details'
 showSlugField: true
 showStatusField: true
 slugTranslationKeyFormat: null

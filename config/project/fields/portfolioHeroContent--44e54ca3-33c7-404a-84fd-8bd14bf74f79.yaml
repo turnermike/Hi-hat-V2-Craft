@@ -1,0 +1,85 @@
+columnSuffix: null
+handle: portfolioHeroContent
+instructions: null
+name: 'Portfolio Hero Content'
+searchable: false
+settings:
+  fieldLayouts:
+    __assoc__:
+      -
+        - 03900e50-62fc-4d4c-a5fc-99b1c755c896
+        -
+          __assoc__:
+            0:
+              - tabs
+              -
+                -
+                  __assoc__:
+                    0:
+                      - name
+                      - Content
+                    1:
+                      - uid
+                      - 717d541f-a865-40ab-82e1-865c708cc778
+                    4:
+                      - elements
+                      -
+                        -
+                          __assoc__:
+                            0:
+                              - type
+                              - craft\fieldlayoutelements\CustomField
+                            1:
+                              - handle
+                              - heroHeading
+                            2:
+                              - label
+                              - 'Hero Heading'
+                            6:
+                              - required
+                              - false
+                            7:
+                              - width
+                              - 100
+                            8:
+                              - dateAdded
+                              - '2026-05-15T14:25:00+00:00'
+                            9:
+                              - uid
+                              - a76d07a7-98f0-41db-9281-35d2f9dd7388
+                            12:
+                              - fieldUid
+                              - a81cde5c-2623-4caa-9a50-d4ed47522578 # Text
+                        -
+                          __assoc__:
+                            0:
+                              - type
+                              - craft\fieldlayoutelements\CustomField
+                            1:
+                              - handle
+                              - heroBody
+                            2:
+                              - label
+                              - 'Hero Body'
+                            6:
+                              - required
+                              - false
+                            7:
+                              - width
+                              - 100
+                            8:
+                              - dateAdded
+                              - '2026-05-15T14:25:00+00:00'
+                            9:
+                              - uid
+                              - 844e26d9-0969-4843-800b-24f6ffd12531
+                            12:
+                              - fieldUid
+                              - 62f2e7a8-cd3b-4fd3-8551-07fd042891a1 # CKEditor
+            4:
+              - cardThumbAlignment
+              - end
+  viewMode: pane
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\ContentBlock

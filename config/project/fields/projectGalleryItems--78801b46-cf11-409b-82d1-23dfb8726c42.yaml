@@ -1,0 +1,29 @@
+columnSuffix: null
+handle: projectGalleryItems
+instructions: null
+name: 'Project Gallery Items'
+searchable: false
+settings:
+  createButtonLabel: null
+  defaultIndexViewMode: cards
+  enableVersioning: false
+  entryTypes:
+    -
+      __assoc__:
+        -
+          - uid
+          - 64305e0b-c0af-46cf-a7a8-36fef8d0ba9e # Project Gallery Item
+        -
+          - group
+          - General
+  includeTableView: false
+  maxEntries: null
+  minEntries: null
+  pageSize: 50
+  propagationKeyFormat: null
+  propagationMethod: all
+  showCardsInGrid: false
+  viewMode: index
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix

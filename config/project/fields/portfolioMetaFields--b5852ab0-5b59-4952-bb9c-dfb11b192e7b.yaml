@@ -1,0 +1,137 @@
+columnSuffix: null
+handle: portfolioMetaFields
+instructions: null
+name: 'Portfolio Meta Fields'
+searchable: false
+settings:
+  fieldLayouts:
+    __assoc__:
+      -
+        - 87a0b2bd-ee93-4e34-b2b0-791da9049400
+        -
+          __assoc__:
+            0:
+              - tabs
+              -
+                -
+                  __assoc__:
+                    0:
+                      - name
+                      - Content
+                    1:
+                      - uid
+                      - 6bd0bbeb-4ce9-4f46-8602-b34bbd57f1ad
+                    4:
+                      - elements
+                      -
+                        -
+                          __assoc__:
+                            0:
+                              - type
+                              - craft\fieldlayoutelements\CustomField
+                            1:
+                              - handle
+                              - myRole
+                            2:
+                              - label
+                              - 'My Role'
+                            6:
+                              - required
+                              - false
+                            7:
+                              - width
+                              - 100
+                            8:
+                              - dateAdded
+                              - '2026-05-15T14:40:28+00:00'
+                            9:
+                              - uid
+                              - 147a7667-6621-46db-bd1f-183f2d0a8068
+                            12:
+                              - fieldUid
+                              - a81cde5c-2623-4caa-9a50-d4ed47522578 # Text
+                        -
+                          __assoc__:
+                            0:
+                              - type
+                              - craft\fieldlayoutelements\CustomField
+                            1:
+                              - handle
+                              - engagementType
+                            2:
+                              - label
+                              - 'Engagement Type'
+                            6:
+                              - required
+                              - false
+                            7:
+                              - width
+                              - 100
+                            8:
+                              - dateAdded
+                              - '2026-05-15T14:40:28+00:00'
+                            9:
+                              - uid
+                              - 84d8562d-0133-482e-a6a9-8715bb297839
+                            12:
+                              - fieldUid
+                              - a81cde5c-2623-4caa-9a50-d4ed47522578 # Text
+                        -
+                          __assoc__:
+                            0:
+                              - type
+                              - craft\fieldlayoutelements\CustomField
+                            1:
+                              - handle
+                              - timeline
+                            2:
+                              - label
+                              - Timeline
+                            6:
+                              - required
+                              - false
+                            7:
+                              - width
+                              - 100
+                            8:
+                              - dateAdded
+                              - '2026-05-15T14:40:28+00:00'
+                            9:
+                              - uid
+                              - 0dddb855-64c7-42c2-9776-e6e3531fda55
+                            12:
+                              - fieldUid
+                              - a81cde5c-2623-4caa-9a50-d4ed47522578 # Text
+                        -
+                          __assoc__:
+                            0:
+                              - type
+                              - craft\fieldlayoutelements\CustomField
+                            1:
+                              - handle
+                              - WebsiteURL
+                            2:
+                              - label
+                              - 'Website URL'
+                            6:
+                              - required
+                              - false
+                            7:
+                              - width
+                              - 100
+                            8:
+                              - dateAdded
+                              - '2026-05-15T14:40:28+00:00'
+                            9:
+                              - uid
+                              - e054f2d2-1159-4837-9369-d0c5bacec0c8
+                            12:
+                              - fieldUid
+                              - a81cde5c-2623-4caa-9a50-d4ed47522578 # Text
+            4:
+              - cardThumbAlignment
+              - end
+  viewMode: pane
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\ContentBlock

@@ -2,7 +2,7 @@ defaultPlacement: end
 enableVersioning: true
 entryTypes:
   -
-    uid: 64fd8540-7793-4c6d-82c7-feab5c6e1f96 # Portfolio Items
+    uid: 965cbbf1-8ce4-4177-b46b-89eeda7b35c6 # Portfolio Item
 handle: portfolio
 maxAuthors: 1
 minAuthors: 1
@@ -21,5 +21,5 @@ siteSettings:
     uriFormat: 'portfolio/{slug}'
 structure:
   maxLevels: null
-  uid: 1da7b6d1-3646-49e2-a5e7-78391822c068
+  uid: 00eb8476-cb14-429c-be59-5359f328bb7a
 type: structure

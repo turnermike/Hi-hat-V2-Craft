@@ -1,0 +1,22 @@
+columnSuffix: null
+handle: techStackTags
+instructions: null
+name: 'Tech Stack Tags'
+searchable: false
+settings:
+  allowSelfRelations: false
+  branchLimit: null
+  defaultPlacement: end
+  maintainHierarchy: false
+  maxRelations: null
+  minRelations: null
+  selectionLabel: null
+  showSearchInput: true
+  showSiteMenu: false
+  source: 'taggroup:1093cfa4-6cff-482c-8ace-352262910c74' # Tech Stack Tags
+  targetSiteId: null
+  validateRelatedElements: false
+  viewMode: list
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Tags
