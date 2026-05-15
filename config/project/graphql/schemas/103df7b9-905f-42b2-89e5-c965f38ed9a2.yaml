@@ -4,5 +4,6 @@ scope:
   - 'sites.92800916-3004-44ea-9398-6192688fca6a:read' # hi-hatconsulting
   - 'sections.505a7f00-2c31-4883-9164-c4c20499fa3e:read' # About
   - 'sections.15ed46b5-6f85-4d92-b8b3-895b8b2c5b5d:read' # Blog
+  - 'sections.d046f0cc-784b-411e-b6b9-8a5b0385c734:read' # Home Page
   - 'globalsets.0c5ba1ee-1ea5-4559-a25e-97a049004244:read' # Site Info
   - 'categorygroups.e694e177-fa06-4239-93ae-c97533ef2b07:read' # Topics
