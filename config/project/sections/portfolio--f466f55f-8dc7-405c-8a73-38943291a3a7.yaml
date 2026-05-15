@@ -2,10 +2,11 @@ defaultPlacement: end
 enableVersioning: true
 entryTypes:
   -
-    uid: 8f83bbaa-9dfd-4f6b-a1c1-a80b190fd0d7 # Home Page
-handle: homePage
+    uid: 64fd8540-7793-4c6d-82c7-feab5c6e1f96 # Portfolio Items
+handle: portfolio
 maxAuthors: 1
-name: 'Home Page'
+minAuthors: 1
+name: Portfolio
 previewTargets:
   -
     label: 'Primary entry page'
@@ -17,5 +18,8 @@ siteSettings:
     enabledByDefault: true
     hasUrls: true
     template: null
-    uriFormat: ''
-type: single
+    uriFormat: 'portfolio/{slug}'
+structure:
+  maxLevels: null
+  uid: 1da7b6d1-3646-49e2-a5e7-78391822c068
+type: structure

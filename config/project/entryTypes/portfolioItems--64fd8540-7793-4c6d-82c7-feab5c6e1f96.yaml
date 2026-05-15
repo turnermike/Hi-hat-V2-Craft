@@ -1,0 +1,54 @@
+allowLineBreaksInTitles: false
+color: null
+description: null
+fieldLayouts:
+  da2d5e8a-5bb7-412c-b028-4564bdfd7445:
+    cardThumbAlignment: end
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2026-05-14T19:00:41+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            required: true
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: f14c7b68-310c-462c-98be-3622288447dd
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 48fa6080-cfca-4f52-874b-2d58d1987c14
+        userCondition: null
+    thumbFieldKey: null
+handle: portfolioItems
+hasTitleField: true
+icon: user-tie
+name: 'Portfolio Items'
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
+uiLabelFormat: '{title}'

@@ -1,4 +1,4 @@
-dateModified: 1778778507
+dateModified: 1778785346
 email:
   fromEmail: turner.mike@gmail.com
   fromName: 'Hi-hat Consulting'
@@ -29,6 +29,7 @@ meta:
     15ed46b5-6f85-4d92-b8b3-895b8b2c5b5d: Blog # Blog
     38f0fc10-65c4-4c8e-85c5-3518eb73058c: 'My Expertise Items' # My Expertise Items
     62f2e7a8-cd3b-4fd3-8551-07fd042891a1: CKEditor # CKEditor
+    64fd8540-7793-4c6d-82c7-feab5c6e1f96: 'Portfolio Items' # Portfolio Items
     103df7b9-905f-42b2-89e5-c965f38ed9a2: 'Public Schema' # Public Schema
     352d55d0-9b3b-4340-adff-1accd93385aa: 'My Expertise Item' # My Expertise Item
     505a7f00-2c31-4883-9164-c4c20499fa3e: About # About
@@ -53,11 +54,12 @@ meta:
     e694e177-fa06-4239-93ae-c97533ef2b07: Topics # Topics
     e833c5bc-be16-4702-9b02-f3863cdbe8e4: 'My Expertise Items' # My Expertise Items
     ed267f18-2e61-40fa-979e-07ea402ea555: 'My Approach Steps' # My Approach Steps
+    f466f55f-8dc7-405c-8a73-38943291a3a7: Portfolio # Portfolio
 plugins:
   ckeditor:
     edition: standard
     enabled: true
-    schemaVersion: 5.0.0.1
+    schemaVersion: 5.6.0.0
   cloner:
     edition: standard
     enabled: true
