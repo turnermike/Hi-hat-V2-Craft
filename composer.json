@@ -4,6 +4,7 @@
   "require": {
     "craftcms/ckeditor": "^5.6.1",
     "craftcms/cms": "^5.10.1",
+    "justinholtweb/craft-free-nav": "^5.0.1",
     "justinholtweb/craft-tidytags": "^5.1.0",
     "verbb/cloner": "^3.0.2",
     "verbb/cp-nav": "^5.0.7",

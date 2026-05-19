@@ -7,14 +7,14 @@ scope:
   - 'sections.d046f0cc-784b-411e-b6b9-8a5b0385c734:read' # Home Page
   - 'sections.57279674-0239-471d-8c8a-97b3d374e399:read' # Portfolio
   - 'entryTypes.965cbbf1-8ce4-4177-b46b-89eeda7b35c6:read' # Portfolio Item
-  - 'fields.ed38c445-9ad1-4f80-a120-ad95f3844f8f:read' # Show in Carousel
-  - 'fields.a81cde5c-2623-4caa-9a50-d4ed47522578:read' # Portfolio Item URL
-  - 'fields.60319308-2629-4009-800b-790f1222826e:read' # Featured Image
+  - 'fields.ed38c445-9ad1-4f80-a120-ad95f3844f8f:read' # Lightswitch
+  - 'fields.a81cde5c-2623-4caa-9a50-d4ed47522578:read' # Text
+  - 'fields.60319308-2629-4009-800b-790f1222826e:read' # Image
   - 'fields.b5852ab0-5b59-4952-bb9c-dfb11b192e7b:read' # Portfolio Meta Fields
   - 'fields.78801b46-cf11-409b-82d1-23dfb8726c42:read' # Project Gallery Items
   - 'fields.f20ec9a4-2310-4092-95fe-fefb9606bb07:read' # Site Type Tags
   - 'fields.bcb20fdb-1b53-41ec-a8dc-f36f2e295ccd:read' # Tech Stack Tags
-  - 'volumes.2f9902f8-4e06-4215-a052-3fd54c9a124d:read' # Images volume
+  - 'volumes.2f9902f8-4e06-4215-a052-3fd54c9a124d:read' # Images
   - 'globalsets.0c5ba1ee-1ea5-4559-a25e-97a049004244:read' # Site Info
   - 'categorygroups.e694e177-fa06-4239-93ae-c97533ef2b07:read' # Topics
   - 'tagGroups.93b2c711-8478-496e-b2c2-08ea8abbe5d1:read' # Site Type Tags

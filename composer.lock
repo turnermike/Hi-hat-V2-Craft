@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ab5d535776449e96250837bf863c76f1",
+    "content-hash": "53ffd2d2e8cefd374b6e00a63aa25a6d",
     "packages": [
         {
             "name": "bacon/bacon-qr-code",
@@ -2049,6 +2049,58 @@
                 "source": "https://github.com/laravel/framework"
             },
             "time": "2025-09-08T19:05:53+00:00"
+        },
+        {
+            "name": "justinholtweb/craft-free-nav",
+            "version": "5.0.1",
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/justinholtweb/craft-freenav/zipball/08af98cd7d25e88d7cbd249a8f43a6cb49a9c427",
+                "reference": "08af98cd7d25e88d7cbd249a8f43a6cb49a9c427",
+                "shasum": ""
+            },
+            "require": {
+                "craftcms/cms": "^5.0.0",
+                "php": "^8.2"
+            },
+            "type": "craft-plugin",
+            "extra": {
+                "name": "FreeNav",
+                "handle": "free-nav",
+                "class": "justinholt\\freenav\\FreeNav",
+                "description": "A free, full-featured navigation menu builder for Craft CMS",
+                "developer": "Justin Holt",
+                "developerUrl": "https://craft-freenav.com",
+                "documentationUrl": "https://craft-freenav.com/docs"
+            },
+            "autoload": {
+                "psr-4": {
+                    "justinholt\\freenav\\": "src/"
+                }
+            },
+            "license": [
+                "proprietary"
+            ],
+            "authors": [
+                {
+                    "name": "Justin Holt",
+                    "homepage": "https://craft-freenav.com"
+                }
+            ],
+            "description": "A free, full-featured navigation menu builder for Craft CMS 5",
+            "keywords": [
+                "cms",
+                "craft",
+                "menu",
+                "nav",
+                "navigation"
+            ],
+            "support": {
+                "issues": "https://github.com/justinholtweb/craft-free-nav/issues",
+                "source": "https://github.com/justinholtweb/craft-free-nav",
+                "docs": "https://craft-freenav.com/docs"
+            },
+            "time": "2026-04-10T16:03:51+00:00"
         },
         {
             "name": "justinholtweb/craft-tidytags",
