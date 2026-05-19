@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ca90d59c1ccdca4883cd9f00d1620664",
+    "content-hash": "ab5d535776449e96250837bf863c76f1",
     "packages": [
         {
             "name": "bacon/bacon-qr-code",
@@ -527,11 +527,11 @@
         },
         {
             "name": "craftcms/cms",
-            "version": "5.10.0",
+            "version": "5.10.1",
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/craftcms/cms/zipball/a516a6190ba8ef39a7603863df9ae09eb89f3a64",
-                "reference": "a516a6190ba8ef39a7603863df9ae09eb89f3a64",
+                "url": "https://api.github.com/repos/craftcms/cms/zipball/90ce464e804d95c996c8b1f382adefecc4c6353b",
+                "reference": "90ce464e804d95c996c8b1f382adefecc4c6353b",
                 "shasum": ""
             },
             "require": {
@@ -630,7 +630,7 @@
                 "docs": "https://craftcms.com/docs/5.x/",
                 "rss": "https://github.com/craftcms/cms/releases.atom"
             },
-            "time": "2026-05-13T16:55:04+00:00"
+            "time": "2026-05-15T00:32:47+00:00"
         },
         {
             "name": "craftcms/html-field",
@@ -1669,16 +1669,16 @@
         },
         {
             "name": "guzzlehttp/psr7",
-            "version": "2.9.0",
+            "version": "2.9.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/psr7.git",
-                "reference": "7d0ed42f28e42d61352a7a79de682e5e67fec884"
+                "reference": "3780f78d6f2854cb327944a22c7b0617852ab7e9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/psr7/zipball/7d0ed42f28e42d61352a7a79de682e5e67fec884",
-                "reference": "7d0ed42f28e42d61352a7a79de682e5e67fec884",
+                "url": "https://api.github.com/repos/guzzle/psr7/zipball/3780f78d6f2854cb327944a22c7b0617852ab7e9",
+                "reference": "3780f78d6f2854cb327944a22c7b0617852ab7e9",
                 "shasum": ""
             },
             "require": {
@@ -1693,9 +1693,9 @@
             },
             "require-dev": {
                 "bamarni/composer-bin-plugin": "^1.8.2",
-                "http-interop/http-factory-tests": "0.9.0",
+                "http-interop/http-factory-tests": "1.1.0",
                 "jshttp/mime-db": "1.54.0.1",
-                "phpunit/phpunit": "^8.5.44 || ^9.6.25"
+                "phpunit/phpunit": "^8.5.52 || ^9.6.34"
             },
             "suggest": {
                 "laminas/laminas-httphandlerrunner": "Emit PSR-7 responses"
@@ -1766,7 +1766,7 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/psr7/issues",
-                "source": "https://github.com/guzzle/psr7/tree/2.9.0"
+                "source": "https://github.com/guzzle/psr7/tree/2.9.1"
             },
             "funding": [
                 {
@@ -1782,7 +1782,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-03-10T16:41:02+00:00"
+            "time": "2026-05-19T15:17:22+00:00"
         },
         {
             "name": "illuminate/collections",
@@ -2052,11 +2052,11 @@
         },
         {
             "name": "justinholtweb/craft-tidytags",
-            "version": "5.0.1",
+            "version": "5.1.0",
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/justinholtweb/craft-tidytags/zipball/7d2dadca2d79ddd889a10bf2fd62604268641b12",
-                "reference": "7d2dadca2d79ddd889a10bf2fd62604268641b12",
+                "url": "https://api.github.com/repos/justinholtweb/craft-tidytags/zipball/bf8d3acad0ce58dfd230d18e6ce01c12ce0def48",
+                "reference": "bf8d3acad0ce58dfd230d18e6ce01c12ce0def48",
                 "shasum": ""
             },
             "require": {
@@ -2089,7 +2089,7 @@
             "support": {
                 "issues": "https://github.com/justinholtweb/craft-tidytags/issues"
             },
-            "time": "2026-04-24T13:45:24+00:00"
+            "time": "2026-05-14T15:39:40+00:00"
         },
         {
             "name": "league/html-to-markdown",
