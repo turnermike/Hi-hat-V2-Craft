@@ -14,6 +14,9 @@ scope:
   - 'fields.78801b46-cf11-409b-82d1-23dfb8726c42:read' # Project Gallery Items
   - 'fields.f20ec9a4-2310-4092-95fe-fefb9606bb07:read' # Site Type Tags
   - 'fields.bcb20fdb-1b53-41ec-a8dc-f36f2e295ccd:read' # Tech Stack Tags
+  - 'fields.62f2e7a8-cd3b-4fd3-8551-07fd042891a1:read' # CKEditor
+  - 'entryTypes.be4822e1-f600-4024-8bb9-20aa3bed0a1a:read' # Testimonial Item
+  - 'sections.08300cde-7b90-4419-a80f-785cf784cf9e:read' # Testimonials
   - 'volumes.2f9902f8-4e06-4215-a052-3fd54c9a124d:read' # Images
   - 'globalsets.0c5ba1ee-1ea5-4559-a25e-97a049004244:read' # Site Info
   - 'categorygroups.e694e177-fa06-4239-93ae-c97533ef2b07:read' # Topics

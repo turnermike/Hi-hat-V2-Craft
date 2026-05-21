@@ -1,0 +1,16 @@
+currLabel: Settings
+customIcon: null
+enabled: true
+handle: settings
+icon: null
+layout: ab495ce4-69f7-4037-8cf0-7913c46705f2 # Default
+level: 2
+newWindow: false
+parent: 60b06921-405a-4f17-bc3a-586b35f7ddfd
+prevLabel: Settings
+prevLevel: 2
+prevParent: 60b06921-405a-4f17-bc3a-586b35f7ddfd
+prevUrl: free-nav/settings
+sortOrder: 18
+type: plugin
+url: free-nav/settings

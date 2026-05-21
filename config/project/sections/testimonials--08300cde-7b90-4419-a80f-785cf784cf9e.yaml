@@ -2,11 +2,11 @@ defaultPlacement: end
 enableVersioning: true
 entryTypes:
   -
-    uid: 8f83bbaa-9dfd-4f6b-a1c1-a80b190fd0d7 # Home Page
-handle: homePage
+    uid: be4822e1-f600-4024-8bb9-20aa3bed0a1a # Testimonial Item
+handle: testimonials
 maxAuthors: 1
 minAuthors: 1
-name: 'Home Page'
+name: Testimonials
 previewTargets:
   -
     label: 'Primary entry page'
@@ -18,5 +18,8 @@ siteSettings:
     enabledByDefault: true
     hasUrls: true
     template: null
-    uriFormat: null
-type: single
+    uriFormat: 'testimonials/{slug}'
+structure:
+  maxLevels: null
+  uid: 21859461-f796-44ef-99b8-b6fbdd2d2f75
+type: structure
