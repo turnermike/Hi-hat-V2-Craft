@@ -1,4 +1,4 @@
-dateModified: 1779389382
+dateModified: 1779460592
 email:
   fromEmail: turner.mike@gmail.com
   fromName: 'Hi-hat Consulting'
@@ -18,7 +18,6 @@ fs:
 meta:
   __names__:
     0a695a45-3db8-49ab-81e7-75f1ba9354da: 'My Expertise Items' # My Expertise Items
-    0c5ba1ee-1ea5-4559-a25e-97a049004244: 'Site Info' # Site Info
     1cf37ddd-e2d2-435a-a9ed-c341f8751e2d: Text # Text
     01ec6715-4652-4991-8231-f566d3a4b15c: Thumbnail # Thumbnail
     2bb57cf7-7054-432d-8de0-1a0b91682203: 'My Expertise' # My Expertise

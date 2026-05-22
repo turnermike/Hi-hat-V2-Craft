@@ -18,7 +18,7 @@ scope:
   - 'entryTypes.be4822e1-f600-4024-8bb9-20aa3bed0a1a:read' # Testimonial Item
   - 'sections.08300cde-7b90-4419-a80f-785cf784cf9e:read' # Testimonials
   - 'volumes.2f9902f8-4e06-4215-a052-3fd54c9a124d:read' # Images
-  - 'globalsets.0c5ba1ee-1ea5-4559-a25e-97a049004244:read' # Site Info
+  - 'globalsets.0c5ba1ee-1ea5-4559-a25e-97a049004244:read'
   - 'globalsets.26749269-f78d-4dfd-a4de-59212b98e05c:read' # Global Options
   - 'categorygroups.e694e177-fa06-4239-93ae-c97533ef2b07:read' # Topics
   - 'tagGroups.93b2c711-8478-496e-b2c2-08ea8abbe5d1:read' # Site Type Tags

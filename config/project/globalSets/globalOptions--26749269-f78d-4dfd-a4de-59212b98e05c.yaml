@@ -130,23 +130,61 @@ fieldLayouts:
             warning: null
             width: 100
           -
-            dateAdded: '2026-05-21T15:41:16+00:00'
+            dateAdded: '2026-05-22T12:50:40+00:00'
             editCondition: null
             elementCondition: null
             elementEditCondition: null
             fieldUid: a81cde5c-2623-4caa-9a50-d4ed47522578 # Text
-            handle: address
+            handle: location
             instructions: null
-            label: Address
+            label: Location
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
-            uid: bc7e7c93-0ea7-4558-ac46-6f68c61d0729
+            uid: 8fd93ad9-87e5-4713-9fdb-c4eac369f891
             userCondition: null
             warning: null
             width: 100
         name: 'Contact '
         uid: 17a1c161-4baf-40da-9030-4ba18a7851bd
+        userCondition: null
+      -
+        elementCondition: null
+        elements:
+          -
+            dateAdded: '2026-05-22T13:23:18+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: 62f2e7a8-cd3b-4fd3-8551-07fd042891a1 # CKEditor
+            handle: tagline
+            instructions: null
+            label: Tagline
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 00ba4f00-7e73-4771-9226-776d7f93b47d
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2026-05-22T14:36:32+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: 62f2e7a8-cd3b-4fd3-8551-07fd042891a1 # CKEditor
+            handle: copywrite
+            instructions: null
+            label: Copywrite
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 4dbc5b18-c1a0-4867-ab3c-0bdc278c4721
+            userCondition: null
+            warning: null
+            width: 100
+        name: Footer
+        uid: 4c6f3b51-a555-4681-8248-bbbffa377b5a
         userCondition: null
     thumbFieldKey: null
 handle: globalOptions
