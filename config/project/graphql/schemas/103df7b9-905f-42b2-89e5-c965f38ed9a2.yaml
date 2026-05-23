@@ -2,13 +2,13 @@ isPublic: true
 name: 'Public Schema'
 scope:
   - 'sites.92800916-3004-44ea-9398-6192688fca6a:read' # hi-hatconsulting
-  - 'sections.505a7f00-2c31-4883-9164-c4c20499fa3e:read' # About
+  - 'sections.505a7f00-2c31-4883-9164-c4c20499fa3e:read' # About Page
   - 'sections.15ed46b5-6f85-4d92-b8b3-895b8b2c5b5d:read' # Blog
   - 'sections.d046f0cc-784b-411e-b6b9-8a5b0385c734:read' # Home Page
   - 'sections.e833c5bc-be16-4702-9b02-f3863cdbe8e4:read' # My Expertise Items
   - 'sections.57279674-0239-471d-8c8a-97b3d374e399:read' # Portfolio
   - 'entryTypes.352d55d0-9b3b-4340-adff-1accd93385aa:read' # My Expertise Item
-  - 'fields.0a695a45-3db8-49ab-81e7-75f1ba9354da:read' # My Expertise Items relation field
+  - 'fields.0a695a45-3db8-49ab-81e7-75f1ba9354da:read' # My Expertise Items
   - 'fields.cc55b7a1-01e3-40fb-85e3-706f84922024:read' # Checkbox
   - 'entryTypes.965cbbf1-8ce4-4177-b46b-89eeda7b35c6:read' # Portfolio Item
   - 'fields.ed38c445-9ad1-4f80-a120-ad95f3844f8f:read' # Lightswitch

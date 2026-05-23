@@ -1,4 +1,4 @@
-dateModified: 1779460592
+dateModified: 1779552943
 email:
   fromEmail: turner.mike@gmail.com
   fromName: 'Hi-hat Consulting'
@@ -35,7 +35,7 @@ meta:
     93b2c711-8478-496e-b2c2-08ea8abbe5d1: 'Site Type Tags' # Site Type Tags
     103df7b9-905f-42b2-89e5-c965f38ed9a2: 'Public Schema' # Public Schema
     352d55d0-9b3b-4340-adff-1accd93385aa: 'My Expertise Item' # My Expertise Item
-    505a7f00-2c31-4883-9164-c4c20499fa3e: About # About
+    505a7f00-2c31-4883-9164-c4c20499fa3e: 'About Page' # About Page
     965cbbf1-8ce4-4177-b46b-89eeda7b35c6: 'Portfolio Item' # Portfolio Item
     1093cfa4-6cff-482c-8ace-352262910c74: 'Tech Stack Tags' # Tech Stack Tags
     08300cde-7b90-4419-a80f-785cf784cf9e: Testimonials # Testimonials
@@ -57,7 +57,7 @@ meta:
     b020ef89-8f1a-4862-8d13-47ecc74bebd0: 'Testimonial Items' # Testimonial Items
     b46de5dd-a815-4c9a-a54a-eff7170cf54a: 'My Approach Steps' # My Approach Steps
     b5852ab0-5b59-4952-bb9c-dfb11b192e7b: 'Portfolio Meta Fields' # Portfolio Meta Fields
-    b11329f8-5144-4e2d-be74-4509b4f08c6b: About # About
+    b11329f8-5144-4e2d-be74-4509b4f08c6b: 'About Page' # About Page
     bcb20fdb-1b53-41ec-a8dc-f36f2e295ccd: 'Tech Stack Tags' # Tech Stack Tags
     be4822e1-f600-4024-8bb9-20aa3bed0a1a: 'Testimonial Item' # Testimonial Item
     becfbd83-f3c8-4404-9322-daf27ec7572c: 'Portfolio Items' # Portfolio Items
