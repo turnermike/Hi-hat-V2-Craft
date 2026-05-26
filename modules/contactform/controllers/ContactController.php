@@ -77,6 +77,23 @@ class ContactController extends Controller
     }
   }
 
+  private function hasExceededSubmissionLimit(string $email): bool
+  {
+    $sectionHandle = App::parseEnv(App::env('CRAFT_CONTACT_FORM_SECTION_HANDLE') ?: 'contactSubmissions');
+    $section = Craft::$app->getEntries()->getSectionByHandle($sectionHandle);
+    if (!$section) {
+      return false;
+    }
+
+    $count = Entry::find()
+      ->sectionId($section->id)
+      ->contactEmail($email)
+      ->anyStatus()
+      ->count();
+
+    return $count >= 2;
+  }
+
   private function contactFieldHandle(string $label): string
   {
     return StringHelper::toCamelCase($label);
@@ -113,6 +130,10 @@ class ContactController extends Controller
 
     if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
       return $this->asCorsErrorJson('Please enter a valid email address.');
+    }
+
+    if ($this->hasExceededSubmissionLimit($email)) {
+      return $this->asCorsErrorJson('A maximum of two contact submissions are allowed per email address.');
     }
 
     $this->saveContactSubmission($name, $email, $subject, $messageText, $unitTag);
