@@ -1,4 +1,4 @@
-dateModified: 1779806215
+dateModified: 1779817870
 elementSources:
   craft\elements\Entry:
     -
@@ -60,12 +60,16 @@ elementSources:
       type: native
 email:
   fromEmail: turner.mike@gmail.com
-  fromName: 'Hi-hat Consulting'
-  replyToEmail: null
+  fromName: 'Mike Turner'
+  replyToEmail: turner.mike@gmail.com
   template: null
   transportSettings:
-    command: '/usr/local/bin/mailpit sendmail -t --smtp-addr 127.0.0.1:1025'
-  transportType: craft\mail\transportadapters\Sendmail
+    host: smtp.gmail.com
+    password: 9MYCX59Y@Nd7MtXyy8KXD
+    port: '587'
+    useAuthentication: '1'
+    username: turner.mike@gmail.com
+  transportType: craft\mail\transportadapters\Smtp
 fs:
   hardDisk:
     hasUrls: true
