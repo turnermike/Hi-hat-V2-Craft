@@ -1,4 +1,4 @@
-dateModified: 1779817870
+dateModified: 1779833331
 elementSources:
   craft\elements\Entry:
     -
@@ -121,6 +121,8 @@ meta:
     ab495ce4-69f7-4037-8cf0-7913c46705f2: Default # Default
     b020ef89-8f1a-4862-8d13-47ecc74bebd0: 'Testimonial Items' # Testimonial Items
     b46de5dd-a815-4c9a-a54a-eff7170cf54a: 'My Approach Steps' # My Approach Steps
+    b66c03f3-31fd-4fa1-9b36-78cc8782a98f: 'Contact Submission' # Contact Submission
+    b97f0cc6-d99d-486d-bf96-3a6936d3696e: 'Contact Submissions' # Contact Submissions
     b5852ab0-5b59-4952-bb9c-dfb11b192e7b: 'Portfolio Meta Fields' # Portfolio Meta Fields
     b11329f8-5144-4e2d-be74-4509b4f08c6b: 'About Page' # About Page
     bcb20fdb-1b53-41ec-a8dc-f36f2e295ccd: 'Tech Stack Tags' # Tech Stack Tags
