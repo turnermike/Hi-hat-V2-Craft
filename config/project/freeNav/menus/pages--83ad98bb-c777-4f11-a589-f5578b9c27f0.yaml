@@ -1,0 +1,13 @@
+defaultPlacement: end
+handle: pages
+instructions: ''
+maxLevels: null
+maxNodes: null
+name: Pages
+propagationMethod: all
+sites:
+  92800916-3004-44ea-9398-6192688fca6a: # hi-hatconsulting
+    enabled: true
+structure:
+  maxLevels: null
+  uid: null

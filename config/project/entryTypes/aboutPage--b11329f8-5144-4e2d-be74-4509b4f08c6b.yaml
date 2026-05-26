@@ -99,6 +99,44 @@ fieldLayouts:
         elementCondition: null
         elements:
           -
+            dateAdded: '2026-05-23T16:46:01+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: a81cde5c-2623-4caa-9a50-d4ed47522578 # Text
+            handle: philosophyTitle
+            instructions: null
+            label: Title
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: a026f28c-6819-4e22-87e7-85552f75460a
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2026-05-23T16:46:01+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: 62f2e7a8-cd3b-4fd3-8551-07fd042891a1 # CKEditor
+            handle: philosophyDescription
+            instructions: null
+            label: Description
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 93967720-bb6f-4941-91b8-1def41b93333
+            userCondition: null
+            warning: null
+            width: 100
+        name: 'My Philosophy'
+        uid: 80a0b194-2353-4203-8f8f-9395b838e5da
+        userCondition: null
+      -
+        elementCondition: null
+        elements:
+          -
             dateAdded: '2026-05-23T16:15:43+00:00'
             editCondition: null
             elementCondition: null

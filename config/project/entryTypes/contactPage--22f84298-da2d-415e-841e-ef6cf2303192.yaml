@@ -1,0 +1,134 @@
+allowLineBreaksInTitles: false
+color: null
+description: null
+fieldLayouts:
+  e2e279c0-d26a-46a0-9f83-eb41eea58767:
+    cardThumbAlignment: end
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            dateAdded: '2026-05-26T12:03:16+00:00'
+            disabled: false
+            elementCondition: null
+            id: null
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            required: true
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 6357f1ac-8df5-4046-ba4f-2e55121c9dcf
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2026-05-26T12:08:38+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: 62f2e7a8-cd3b-4fd3-8551-07fd042891a1 # CKEditor
+            handle: contactDescription
+            instructions: null
+            label: Description
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 1fba42ac-389e-47ba-b554-fac1b6fe9688
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2026-05-26T12:08:38+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: a81cde5c-2623-4caa-9a50-d4ed47522578 # Text
+            handle: contactEmailIcon
+            instructions: null
+            label: 'Email Icon'
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 77764e6d-6278-41bb-87c5-af3fe04a6469
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2026-05-26T12:08:38+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: 62f2e7a8-cd3b-4fd3-8551-07fd042891a1 # CKEditor
+            handle: contactEmail
+            instructions: null
+            label: 'Email '
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 1fbf31cc-7fdd-4695-a204-8b86e5e1f988
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2026-05-26T12:08:38+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: a81cde5c-2623-4caa-9a50-d4ed47522578 # Text
+            handle: contactLocationIcon
+            instructions: null
+            label: 'Location Icon'
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: c6a8732d-c596-461b-aa97-7485c3198bdf
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2026-05-26T12:08:38+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: 62f2e7a8-cd3b-4fd3-8551-07fd042891a1 # CKEditor
+            handle: contactLocation
+            instructions: null
+            label: Location
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 784085eb-3d69-4d7a-9f14-29adfde2c7dd
+            userCondition: null
+            warning: null
+            width: 100
+        name: 'Hero Section'
+        uid: 4a3ed313-a67e-4595-a228-c9c2718a5fd1
+        userCondition: null
+    thumbFieldKey: null
+handle: contactPage
+hasTitleField: true
+icon: phone-volume
+name: 'Contact Page'
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
+uiLabelFormat: '{title}'

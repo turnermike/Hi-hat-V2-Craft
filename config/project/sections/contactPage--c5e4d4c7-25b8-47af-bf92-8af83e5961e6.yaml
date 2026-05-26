@@ -1,0 +1,22 @@
+defaultPlacement: end
+enableVersioning: true
+entryTypes:
+  -
+    uid: 22f84298-da2d-415e-841e-ef6cf2303192 # Contact Page
+handle: contactPage
+maxAuthors: 1
+minAuthors: 1
+name: 'Contact Page'
+previewTargets:
+  -
+    label: 'Primary entry page'
+    refresh: '1'
+    urlFormat: '{url}'
+propagationMethod: all
+siteSettings:
+  92800916-3004-44ea-9398-6192688fca6a: # hi-hatconsulting
+    enabledByDefault: true
+    hasUrls: true
+    template: null
+    uriFormat: contact-page
+type: single

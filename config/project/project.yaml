@@ -1,4 +1,63 @@
-dateModified: 1779552943
+dateModified: 1779806215
+elementSources:
+  craft\elements\Entry:
+    -
+      key: '*'
+      page: Entries
+      type: native
+    -
+      heading: Singles
+      key: 'heading:57163cf7-822d-4877-b7ac-406fe508f96c'
+      page: Entries
+      type: heading
+    -
+      key: 'single:d046f0cc-784b-411e-b6b9-8a5b0385c734' # Home Page
+      page: Entries
+      type: native
+    -
+      key: 'single:505a7f00-2c31-4883-9164-c4c20499fa3e' # About Page
+      page: Entries
+      type: native
+    -
+      key: 'single:c5e4d4c7-25b8-47af-bf92-8af83e5961e6' # Contact Page
+      page: Entries
+      type: native
+    -
+      heading: Channels
+      key: 'heading:ff1ed931-f8cb-4176-a646-d768e17ea156'
+      page: Entries
+      type: heading
+    -
+      key: 'section:15ed46b5-6f85-4d92-b8b3-895b8b2c5b5d' # Blog
+      page: Entries
+      type: native
+    -
+      heading: Structures
+      key: 'heading:86e6091a-7109-493a-9367-758fa16efef6'
+      page: Entries
+      type: heading
+    -
+      defaultSort:
+        - structure
+        - asc
+      defaultViewMode: ''
+      disabled: false
+      key: 'section:57279674-0239-471d-8c8a-97b3d374e399' # Portfolio
+      page: Entries
+      tableAttributes:
+        - status
+        - postDate
+        - expiryDate
+        - link
+      type: native
+    -
+      key: 'section:e833c5bc-be16-4702-9b02-f3863cdbe8e4' # My Expertise Items
+      page: Entries
+      type: native
+    -
+      key: 'section:08300cde-7b90-4419-a80f-785cf784cf9e' # Testimonials
+      page: Entries
+      type: native
 email:
   fromEmail: turner.mike@gmail.com
   fromName: 'Hi-hat Consulting'
@@ -28,10 +87,12 @@ meta:
     8a813d74-8005-4b67-8667-4cb943f691f8: 'Project Details' # Project Details
     8f83bbaa-9dfd-4f6b-a1c1-a80b190fd0d7: 'Home Page' # Home Page
     15ed46b5-6f85-4d92-b8b3-895b8b2c5b5d: Blog # Blog
+    22f84298-da2d-415e-841e-ef6cf2303192: 'Contact Page' # Contact Page
     38f0fc10-65c4-4c8e-85c5-3518eb73058c: 'My Expertise Items' # My Expertise Items
     44e54ca3-33c7-404a-84fd-8bd14bf74f79: 'Portfolio Hero Content' # Portfolio Hero Content
     62f2e7a8-cd3b-4fd3-8551-07fd042891a1: CKEditor # CKEditor
     64fd8540-7793-4c6d-82c7-feab5c6e1f96: 'Portfolio Items' # Portfolio Items
+    83ad98bb-c777-4f11-a589-f5578b9c27f0: Pages # Pages
     93b2c711-8478-496e-b2c2-08ea8abbe5d1: 'Site Type Tags' # Site Type Tags
     103df7b9-905f-42b2-89e5-c965f38ed9a2: 'Public Schema' # Public Schema
     352d55d0-9b3b-4340-adff-1accd93385aa: 'My Expertise Item' # My Expertise Item
@@ -62,6 +123,7 @@ meta:
     be4822e1-f600-4024-8bb9-20aa3bed0a1a: 'Testimonial Item' # Testimonial Item
     becfbd83-f3c8-4404-9322-daf27ec7572c: 'Portfolio Items' # Portfolio Items
     c5aac788-9073-4a2f-a77c-249bf829ada2: 'Call to Action' # Call to Action
+    c5e4d4c7-25b8-47af-bf92-8af83e5961e6: 'Contact Page' # Contact Page
     c42f6a1e-b175-47f2-a78a-73e32b9520ed: Button # Button
     cc55b7a1-01e3-40fb-85e3-706f84922024: Checkbox # Checkbox
     d046f0cc-784b-411e-b6b9-8a5b0385c734: 'Home Page' # Home Page
