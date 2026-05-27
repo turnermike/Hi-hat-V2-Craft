@@ -1,0 +1,144 @@
+allowLineBreaksInTitles: false
+color: null
+description: null
+fieldLayouts:
+  f4765472-9649-4624-9a53-a83763c44b00:
+    cardThumbAlignment: end
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            dateAdded: '2026-05-27T14:49:53+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: a81cde5c-2623-4caa-9a50-d4ed47522578 # Text
+            handle: portfolioEyebrow
+            instructions: null
+            label: Eyebrow
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: cb6e1ea6-4bac-4b03-b1a7-d8ad784257ce
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2026-05-27T14:49:53+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: a81cde5c-2623-4caa-9a50-d4ed47522578 # Text
+            handle: portfolioTitle
+            instructions: null
+            label: Title
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: ecc57bc4-b996-47ce-9cb7-07d60a92178b
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2026-05-27T14:49:53+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: 62f2e7a8-cd3b-4fd3-8551-07fd042891a1 # CKEditor
+            handle: portfolioDescription
+            instructions: null
+            label: Description
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: a4178632-9eaf-4fc5-9219-82ae74fcab42
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2026-05-27T14:49:53+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: c42f6a1e-b175-47f2-a78a-73e32b9520ed # Button
+            handle: portfolioButtonOne
+            instructions: null
+            label: 'Button One'
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 627ac989-c78e-42ae-86ba-10b0208095a3
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2026-05-27T14:49:53+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: c42f6a1e-b175-47f2-a78a-73e32b9520ed # Button
+            handle: portfolioButtonTwo
+            instructions: null
+            label: 'Button Two'
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 7c2be3e7-f4cd-49c6-9d1d-a588ec136c73
+            userCondition: null
+            warning: null
+            width: 100
+        name: Hero
+        uid: bd61f244-205e-4aa8-96ca-3ca45602e785
+        userCondition: null
+      -
+        elementCondition: null
+        elements:
+          -
+            dateAdded: '2026-05-27T14:52:06+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: a81cde5c-2623-4caa-9a50-d4ed47522578 # Text
+            handle: portfolioItemsTitle
+            instructions: null
+            label: Title
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 62fff6db-5c73-423e-87c9-a667082ac164
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2026-05-27T14:52:06+00:00'
+            editCondition: null
+            elementCondition: null
+            elementEditCondition: null
+            fieldUid: 62f2e7a8-cd3b-4fd3-8551-07fd042891a1 # CKEditor
+            handle: portfolioItemsDescription
+            instructions: null
+            label: Description
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: b78f23b4-ef4f-4dbf-82b4-2f9ab33cc6a0
+            userCondition: null
+            warning: null
+            width: 100
+        name: 'Portfolio Items'
+        uid: f90181c6-6de7-4523-b1c3-29bacd9c12a8
+        userCondition: null
+    thumbFieldKey: null
+handle: portfoliopage
+hasTitleField: false
+icon: briefcase-blank
+name: portfolioPage
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
+uiLabelFormat: '{title}'

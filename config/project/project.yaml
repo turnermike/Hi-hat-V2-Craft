@@ -1,4 +1,4 @@
-dateModified: 1779833331
+dateModified: 1779895705
 elementSources:
   craft\elements\Entry:
     -
@@ -101,6 +101,7 @@ meta:
     103df7b9-905f-42b2-89e5-c965f38ed9a2: 'Public Schema' # Public Schema
     352d55d0-9b3b-4340-adff-1accd93385aa: 'My Expertise Item' # My Expertise Item
     505a7f00-2c31-4883-9164-c4c20499fa3e: 'About Page' # About Page
+    659eab24-8d43-4e35-a672-e49e88196f1a: 'Portfolio Page' # Portfolio Page
     965cbbf1-8ce4-4177-b46b-89eeda7b35c6: 'Portfolio Item' # Portfolio Item
     1093cfa4-6cff-482c-8ace-352262910c74: 'Tech Stack Tags' # Tech Stack Tags
     08300cde-7b90-4419-a80f-785cf784cf9e: Testimonials # Testimonials
@@ -136,6 +137,7 @@ meta:
     d93e0a17-54cc-440d-8164-5f1bdd3f818a: 'My Approach' # My Approach
     e694e177-fa06-4239-93ae-c97533ef2b07: Topics # Topics
     e833c5bc-be16-4702-9b02-f3863cdbe8e4: 'My Expertise Items' # My Expertise Items
+    eae6b401-a772-457c-bf65-a2495bf98ea2: portfolioPage # portfolioPage
     ed38c445-9ad1-4f80-a120-ad95f3844f8f: Lightswitch # Lightswitch
     ed267f18-2e61-40fa-979e-07ea402ea555: 'My Approach Steps' # My Approach Steps
     f1db294f-8162-40e9-a1ea-66ebc646ca1b: 'Project Details' # Project Details
@@ -152,15 +154,15 @@ plugins:
     schemaVersion: 1.0.0
   cp-nav:
     edition: standard
-    enabled: true
+    enabled: false
     schemaVersion: 2.0.11
   expanded-singles:
     edition: standard
-    enabled: true
+    enabled: false
     schemaVersion: 1.0.0
   free-nav:
     edition: standard
-    enabled: true
+    enabled: false
     schemaVersion: 1.0.0
     settings:
       activeClass: active

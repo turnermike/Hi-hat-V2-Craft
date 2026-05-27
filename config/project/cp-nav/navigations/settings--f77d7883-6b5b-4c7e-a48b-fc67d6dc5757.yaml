@@ -1,16 +1,16 @@
-currLabel: Utilities
+currLabel: Settings
 customIcon: null
 enabled: true
-handle: utilities
-icon: wrench
+handle: settings
+icon: gear
 layout: ab495ce4-69f7-4037-8cf0-7913c46705f2 # Default
 level: 1
 newWindow: false
 parent: null
-prevLabel: Utilities
+prevLabel: Settings
 prevLevel: 1
 prevParent: null
-prevUrl: utilities
-sortOrder: 10
+prevUrl: settings
+sortOrder: 17
 type: craft
-url: utilities
+url: settings

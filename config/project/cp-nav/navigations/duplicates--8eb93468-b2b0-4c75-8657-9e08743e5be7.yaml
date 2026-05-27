@@ -6,11 +6,11 @@ icon: null
 layout: ab495ce4-69f7-4037-8cf0-7913c46705f2 # Default
 level: 2
 newWindow: false
-parent: c490fe90-f16e-44a2-9de2-a41f731f1a9d
+parent: 07b8efe8-78e2-47e1-a6dd-c83d09c10fda
 prevLabel: Duplicates
 prevLevel: 2
-prevParent: c490fe90-f16e-44a2-9de2-a41f731f1a9d
+prevParent: 07b8efe8-78e2-47e1-a6dd-c83d09c10fda
 prevUrl: tidytags/duplicates
-sortOrder: 15
+sortOrder: 11
 type: plugin
 url: tidytags/duplicates

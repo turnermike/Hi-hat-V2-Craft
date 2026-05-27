@@ -18,7 +18,7 @@ settings:
               - '1'
             -
               - allowAnchors
-              - ''
+              - '1'
             -
               - allowCustomSchemes
               - ''

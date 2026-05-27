@@ -6,11 +6,11 @@ icon: null
 layout: ab495ce4-69f7-4037-8cf0-7913c46705f2 # Default
 level: 2
 newWindow: false
-parent: 60b06921-405a-4f17-bc3a-586b35f7ddfd
+parent: ce8e97ed-b80f-4b53-a434-9aba924c5a4c
 prevLabel: Menus
 prevLevel: 2
-prevParent: 60b06921-405a-4f17-bc3a-586b35f7ddfd
+prevParent: ce8e97ed-b80f-4b53-a434-9aba924c5a4c
 prevUrl: free-nav/menus
-sortOrder: 17
+sortOrder: 7
 type: plugin
 url: free-nav/menus

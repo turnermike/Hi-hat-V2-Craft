@@ -1,16 +1,16 @@
-currLabel: 'Plugin Store'
+currLabel: GraphQL
 customIcon: null
 enabled: true
-handle: plugin-store
-icon: plug
+handle: graphql
+icon: graphql
 layout: ab495ce4-69f7-4037-8cf0-7913c46705f2 # Default
 level: 1
 newWindow: false
 parent: null
-prevLabel: 'Plugin Store'
+prevLabel: GraphQL
 prevLevel: 1
 prevParent: null
-prevUrl: plugin-store
+prevUrl: graphql
 sortOrder: 12
 type: craft
-url: plugin-store
+url: graphql
