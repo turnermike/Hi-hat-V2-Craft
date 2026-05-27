@@ -51,6 +51,42 @@ settings:
                   __assoc__:
                     -
                       - name
+                      - h2
+                    -
+                      - attributes
+                      -
+                        __assoc__:
+                          -
+                            - class
+                            - true
+                -
+                  __assoc__:
+                    -
+                      - name
+                      - h3
+                    -
+                      - attributes
+                      -
+                        __assoc__:
+                          -
+                            - class
+                            - true
+                -
+                  __assoc__:
+                    -
+                      - name
+                      - h4
+                    -
+                      - attributes
+                      -
+                        __assoc__:
+                          -
+                            - class
+                            - true
+                -
+                  __assoc__:
+                    -
+                      - name
                       - span
                     -
                       - attributes
